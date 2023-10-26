@@ -1,5 +1,7 @@
 Computational Intelligence
 ==========================
+This repo is forked from the Computational Intelligence repo (description below).
+Some imporovements on top of that as class exercises.
 
 This repo contains notes and code fragments for my lectures of *Computational Intelligence* ([01URROV](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01URROV)) at [Politecnico di Torino](https://www.polito.it/). 
 
