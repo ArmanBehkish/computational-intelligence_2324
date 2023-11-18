@@ -11,5 +11,5 @@ In this implementaion, I implemented a class to perform ES (&lambda; + 1) strage
 - **Population**: the population is a list of individuals along with their fitness value. in each round the fitness is computed for all individuals and best one is selected. if the last two reounds stuck in the same top fitness, a restart is performed.
 - **Exploration**: different values of &lambda; , population size, number of game for fitness, etc. were tested and it seems the best output is for large values of &lambda;. 
 - **Testing**: many improvenets are possible which will be addedd gradually.
-- **Adaptive Learning: ** a class is implemented to record and find percentage difference in fitness values. Based on the percentage change in fittness values in each loop, the sigma (step) is adjested to find a balance between exploration and exploitation.
+- **Adaptive Learning** a class is implemented to record and find percentage difference in fitness values. Based on the percentage change in fittness values in each loop, the sigma (step) is adjested to find a balance between exploration and exploitation.
 - **Results**: The algorithm is able to easily climb to 50% wins against the optimal (nimsum) player. 
