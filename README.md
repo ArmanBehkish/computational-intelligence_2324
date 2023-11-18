@@ -1,5 +1,8 @@
 Computational Intelligence
 ==========================
+
+*The current work is inside 2023-2024 directory*
+
 This repo is forked from the Computational Intelligence repo (description below).
 Some imporovements on top of that as class exercises.
 
