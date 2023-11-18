@@ -13,4 +13,4 @@ In this implementaion, I implemented a class to perform ES (&lambda; + 1) strage
 - **Testing**: many improvenets are possible which will be addedd gradually.
 - **Adaptive Learning** a class is implemented to record and find percentage difference in fitness values. Based on the percentage change in fittness values in each loop, the sigma (step) is adjested to find a balance between exploration and exploitation.
 - **Results**: The algorithm is able to easily climb to 50% wins against the optimal (nimsum) player. 
-- **Best Result** : 75% win against pure_random 
+- **Best Result** : 75% win against pure_random - 98% win against gabriele
